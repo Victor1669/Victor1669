@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Victor%20Fernandes&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlignY=58&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:330000,100:8b0000&height=200&section=header&text=Victor%20Fernandes&fontSize=50&fontColor=ff4d4d&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20FullStack%20%7C%20React%20%7C%20TypeScript&descAlignY=58&descColor=cccccc" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Victor!+👋;Frontend+Developer;Aprendendo+React+Native+%26+TypeScript;Sempre+construindo+algo+novo...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Victor!+👋;Desenvolvedor+FullStack;Aprendendo+React+Native+%26+TypeScript;Sempre+construindo+algo+novo...)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,11 +43,15 @@ disponível_para: Colaborações e oportunidades
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
@@ -55,7 +59,7 @@ disponível_para: Colaborações e oportunidades
 
 ## 🏆 Atividade
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor1669&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Victor1669&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -63,14 +67,14 @@ disponível_para: Colaborações e oportunidades
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victor1669&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victor1669&layout=compact&theme=github_dark&locale=pt-br&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victor1669&show_icons=true&theme=dark_dimmed&locale=pt-br&hide_border=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=cccccc&bg_color=0d0d0d" />
+<img height="180em" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Victor1669&layout=compact&langs_count=8&theme=default" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor1669&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victor1669&theme=red&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -78,6 +82,6 @@ disponível_para: Colaborações e oportunidades
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:330000,100:0d0d0d&height=120&section=footer" />
 
 </div>
